@@ -1,44 +1,52 @@
-*This repository acts as a template for all of Oracle’s GitHub repositories. It contains information about the guidelines for those repositories. All files and sections contained in this template are mandatory, and a GitHub app ensures alignment with these guidelines. To get started with a new repository, replace the italic paragraphs with the respective text for your project.*
+# About iOS Image Gallery Sample
 
-# Project name
+This repository holds the sample source code for an iOS image gallery app showing images from Oracle Content Management.
 
-*Describe your project's features, functionality and target audience*
+Please see the complete [tutorial](https://www.oracle.com/pls/topic/lookup?ctx=cloud&id=oce-ios-gallery-sample).
 
 ## Installation
 
-*Provide detailed step-by-step installation instructions*
+Source code may be obtained from Github:
 
-## Documentation
+```
+git clone https://github.com/oracle-samples/oce-ios-gallery-sample
+```
 
-*Developer-oriented documentation can be published on GitHub, but all product documentation must be published on <https://docs.oracle.com>*
+## Running the project
 
-## Examples
+Open the project file, `GalleryDemo.xcodeproj`.
 
-*Describe any included examples or provide a link to a demo/tutorial*
+Open the file, `credentials.json` and provide information about your Oracle Content Management instance:
 
-## Help
+```json 
+{
+    "url": "https://headless.mycontentdemo.com",
+    "channelToken": "e0b6421e73454818948de7b1eaddb091"
+}
+```
 
-*Inform users on where to get help or how to receive official support from Oracle (if applicable)*
+- `url` - the full URL (and optional port) for your Content Management instance
+- `channelToken` - the token associated with the channel to which your assets were published
+
+Once you have provided the necessary credential information, select an appropriate iOS target and click the Run button.
+
+This sample may be run on-device or in a simulator. The functionality will be identical in both.
+
+## Images
+
+Sample images may be downloaded from [https://www.oracle.com/middleware/technologies/content-experience-downloads.html](https://www.oracle.com/middleware/technologies/content-experience-downloads.html) under a separate license.  These images are provided for reference purposes only and may not be hosted or redistributed by you.
 
 ## Contributing
 
-*If your project has specific contribution requirements, update the CONTRIBUTING.md file to ensure those requirements are clearly explained*
-
-This project welcomes contributions from the community. Before submitting a pull request, please [review our contribution guide](./CONTRIBUTING.md)
+This project welcomes contributions from the community. Before submitting a pull
+request, please [review our contribution guide](./CONTRIBUTING.md).
 
 ## Security
 
-Please consult the [security guide](./SECURITY.md) for our responsible security vulnerability disclosure process
+Please consult the [security guide](./SECURITY.md) for our responsible security
+vulnerability disclosure process.
 
 ## License
 
-*The correct copyright notice format for both documentation and software is*
-    "Copyright (c) [year,] year Oracle and/or its affiliates."
-*You must include the year the content was first released (on any platform) and the most recent year in which it was revised*
-
-Copyright (c) 2023 Oracle and/or its affiliates.
-
-*Replace this statement if your project is not licensed under the UPL*
-
-Released under the Universal Permissive License v1.0 as shown at
-<https://oss.oracle.com/licenses/upl/>.
+Copyright (c) 2023 Oracle and/or its affiliates and released under the
+[Universal Permissive License (UPL)](https://oss.oracle.com/licenses/upl/), Version 1.0

@@ -1,0 +1,52 @@
+{
+    "hasMore": false,
+    "offset": 0,
+    "count": 1,
+    "limit": 50,
+    "totalResults": 1,
+    "items": [{
+        "id": "FC169639A24E4D1CA9F7427EF5857478",
+        "name": "OCEImageGalleryTaxonomy",
+        "shortName": "IMG",
+        "createdDate": {
+            "value": "2020-04-16T20:01:33.361Z",
+            "timezone": "UTC"
+        },
+        "updatedDate": {
+            "value": "2021-03-29T11:27:34.509Z",
+            "timezone": "UTC"
+        },
+        "links": [{
+            "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478?channelToken=e0b6421e73454818948de7b1eaddb091",
+            "rel": "self",
+            "method": "GET",
+            "mediaType": "application/json"
+        }]
+    }],
+    "links": [{
+        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies?limit=50&channelToken=e0b6421e73454818948de7b1eaddb091&totalResults=true&offset=0",
+        "rel": "self",
+        "method": "GET",
+        "mediaType": "application/json"
+    }, {
+        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies?limit=50&channelToken=e0b6421e73454818948de7b1eaddb091&totalResults=true&offset=0",
+        "rel": "canonical",
+        "method": "GET",
+        "mediaType": "application/json"
+    }, {
+        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/metadata-catalog/taxonomies?channelToken=e0b6421e73454818948de7b1eaddb091",
+        "rel": "describedby",
+        "method": "GET",
+        "mediaType": "application/json"
+    }, {
+        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies?limit=50&channelToken=e0b6421e73454818948de7b1eaddb091&totalResults=true&offset=0",
+        "rel": "first",
+        "method": "GET",
+        "mediaType": "application/json"
+    }, {
+        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies?limit=50&channelToken=e0b6421e73454818948de7b1eaddb091&totalResults=true&offset=0",
+        "rel": "last",
+        "method": "GET",
+        "mediaType": "application/json"
+    }]
+}

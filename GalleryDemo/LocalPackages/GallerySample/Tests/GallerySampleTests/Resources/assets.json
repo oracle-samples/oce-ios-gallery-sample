@@ -1,0 +1,2599 @@
+{
+    "hasMore": false,
+    "offset": 0,
+    "count": 12,
+    "limit": 12,
+    "totalResults": 12,
+    "items": [{
+        "description": "",
+        "mimeType": "image/jpeg",
+        "updatedDate": {
+            "value": "2021-04-07T19:53:14.118Z",
+            "timezone": "UTC"
+        },
+        "type": "Image",
+        "typeCategory": "DigitalAssetType",
+        "createdDate": {
+            "value": "2020-06-04T19:37:47.577Z",
+            "timezone": "UTC"
+        },
+        "taxonomies": {
+            "items": [{
+                "id": "FC169639A24E4D1CA9F7427EF5857478",
+                "name": "OCEImageGalleryTaxonomy",
+                "shortName": "IMG",
+                "categories": {
+                    "items": [{
+                        "id": "1C8275C3E3714165B399A1ACEC35E408",
+                        "name": "Breakfast",
+                        "apiName": "img-f-b",
+                        "nodes": [{
+                            "id": "570A7BBE2FE34470B72BD4B33D12CF74",
+                            "name": "Food",
+                            "apiName": "img-f"
+                        }, {
+                            "id": "1C8275C3E3714165B399A1ACEC35E408",
+                            "name": "Breakfast",
+                            "apiName": "img-f-b"
+                        }],
+                        "links": [{
+                            "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478/categories/1C8275C3E3714165B399A1ACEC35E408?channelToken=e0b6421e73454818948de7b1eaddb091",
+                            "rel": "self",
+                            "method": "GET",
+                            "mediaType": "application/json"
+                        }]
+                    }]
+                },
+                "links": [{
+                    "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478?channelToken=e0b6421e73454818948de7b1eaddb091",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "application/json"
+                }]
+            }]
+        },
+        "fileExtension": "jpg",
+        "name": "shutterstock_352900238(2).jpg",
+        "renditions": {
+            "items": null
+        },
+        "links": [{
+            "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/items/CONTECE451667ACD4AD28DDB1108DBC849F7?channelToken=e0b6421e73454818948de7b1eaddb091",
+            "rel": "self",
+            "method": "GET",
+            "mediaType": "application/json"
+        }],
+        "id": "CONTECE451667ACD4AD28DDB1108DBC849F7",
+        "fileGroup": "Images",
+        "fields": {
+            "metadata": {
+                "width": "1966",
+                "height": "1311"
+            },
+            "size": 385039,
+            "native": {
+                "links": [{
+                    "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONTECE451667ACD4AD28DDB1108DBC849F7/native/shutterstock_352900238%282%29.jpg?channelToken=e0b6421e73454818948de7b1eaddb091",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "image/jpeg"
+                }]
+            },
+            "advancedVideoInfo": {},
+            "renditions": [{
+                "name": "Thumbnail",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 9118,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "150",
+                        "height": "100"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONTECE451667ACD4AD28DDB1108DBC849F7/Thumbnail/shutterstock_352900238%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 3268,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "150",
+                        "height": "100"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONTECE451667ACD4AD28DDB1108DBC849F7/Thumbnail/shutterstock_352900238%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Medium",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 181408,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "1024",
+                        "height": "682"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONTECE451667ACD4AD28DDB1108DBC849F7/Medium/shutterstock_352900238%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 48364,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "1024",
+                        "height": "682"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONTECE451667ACD4AD28DDB1108DBC849F7/Medium/shutterstock_352900238%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Large",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 385039,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "1966",
+                        "height": "1311"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONTECE451667ACD4AD28DDB1108DBC849F7/Large/shutterstock_352900238%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 141710,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "1966",
+                        "height": "1311"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONTECE451667ACD4AD28DDB1108DBC849F7/Large/shutterstock_352900238%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Small",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 24773,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "300",
+                        "height": "200"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONTECE451667ACD4AD28DDB1108DBC849F7/Small/shutterstock_352900238%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 8118,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "300",
+                        "height": "200"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONTECE451667ACD4AD28DDB1108DBC849F7/Small/shutterstock_352900238%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }],
+            "mimeType": "image/jpeg",
+            "fileType": "jpeg"
+        },
+        "slug": "1481786090323-shutterstock_352900238(2)"
+    }, {
+        "description": "",
+        "mimeType": "image/jpeg",
+        "updatedDate": {
+            "value": "2021-04-07T19:53:14.118Z",
+            "timezone": "UTC"
+        },
+        "type": "Image",
+        "typeCategory": "DigitalAssetType",
+        "createdDate": {
+            "value": "2020-06-04T19:37:47.577Z",
+            "timezone": "UTC"
+        },
+        "taxonomies": {
+            "items": [{
+                "id": "FC169639A24E4D1CA9F7427EF5857478",
+                "name": "OCEImageGalleryTaxonomy",
+                "shortName": "IMG",
+                "categories": {
+                    "items": [{
+                        "id": "1C8275C3E3714165B399A1ACEC35E408",
+                        "name": "Breakfast",
+                        "apiName": "img-f-b",
+                        "nodes": [{
+                            "id": "570A7BBE2FE34470B72BD4B33D12CF74",
+                            "name": "Food",
+                            "apiName": "img-f"
+                        }, {
+                            "id": "1C8275C3E3714165B399A1ACEC35E408",
+                            "name": "Breakfast",
+                            "apiName": "img-f-b"
+                        }],
+                        "links": [{
+                            "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478/categories/1C8275C3E3714165B399A1ACEC35E408?channelToken=e0b6421e73454818948de7b1eaddb091",
+                            "rel": "self",
+                            "method": "GET",
+                            "mediaType": "application/json"
+                        }]
+                    }, {
+                        "id": "5F06607701B24C289F963F57F84EE87C",
+                        "name": "Sandwiches",
+                        "apiName": "img-f-s",
+                        "nodes": [{
+                            "id": "570A7BBE2FE34470B72BD4B33D12CF74",
+                            "name": "Food",
+                            "apiName": "img-f"
+                        }, {
+                            "id": "5F06607701B24C289F963F57F84EE87C",
+                            "name": "Sandwiches",
+                            "apiName": "img-f-s"
+                        }],
+                        "links": [{
+                            "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478/categories/5F06607701B24C289F963F57F84EE87C?channelToken=e0b6421e73454818948de7b1eaddb091",
+                            "rel": "self",
+                            "method": "GET",
+                            "mediaType": "application/json"
+                        }]
+                    }]
+                },
+                "links": [{
+                    "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478?channelToken=e0b6421e73454818948de7b1eaddb091",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "application/json"
+                }]
+            }]
+        },
+        "fileExtension": "jpg",
+        "name": "shutterstock_95646637(2).jpg",
+        "renditions": {
+            "items": null
+        },
+        "links": [{
+            "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/items/CONT07663D2FD73B410CB0D8C81CC94583A2?channelToken=e0b6421e73454818948de7b1eaddb091",
+            "rel": "self",
+            "method": "GET",
+            "mediaType": "application/json"
+        }],
+        "id": "CONT07663D2FD73B410CB0D8C81CC94583A2",
+        "fileGroup": "Images",
+        "fields": {
+            "metadata": {
+                "width": "2134",
+                "height": "1596"
+            },
+            "size": 356605,
+            "native": {
+                "links": [{
+                    "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT07663D2FD73B410CB0D8C81CC94583A2/native/shutterstock_95646637%282%29.jpg?channelToken=e0b6421e73454818948de7b1eaddb091",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "image/jpeg"
+                }]
+            },
+            "advancedVideoInfo": {},
+            "renditions": [{
+                "name": "Thumbnail",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 8651,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "150",
+                        "height": "112"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT07663D2FD73B410CB0D8C81CC94583A2/Thumbnail/shutterstock_95646637%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 2894,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "150",
+                        "height": "112"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT07663D2FD73B410CB0D8C81CC94583A2/Thumbnail/shutterstock_95646637%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Medium",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 156481,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "1024",
+                        "height": "765"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT07663D2FD73B410CB0D8C81CC94583A2/Medium/shutterstock_95646637%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 42210,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "1024",
+                        "height": "765"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT07663D2FD73B410CB0D8C81CC94583A2/Medium/shutterstock_95646637%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Large",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 442292,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "2048",
+                        "height": "1531"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT07663D2FD73B410CB0D8C81CC94583A2/Large/shutterstock_95646637%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 105930,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "2048",
+                        "height": "1531"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT07663D2FD73B410CB0D8C81CC94583A2/Large/shutterstock_95646637%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Small",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 24090,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "300",
+                        "height": "224"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT07663D2FD73B410CB0D8C81CC94583A2/Small/shutterstock_95646637%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 7806,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "300",
+                        "height": "224"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT07663D2FD73B410CB0D8C81CC94583A2/Small/shutterstock_95646637%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }],
+            "mimeType": "image/jpeg",
+            "fileType": "jpeg"
+        },
+        "slug": "1481786090287-shutterstock_95646637(2)"
+    }, {
+        "description": "",
+        "mimeType": "image/jpeg",
+        "updatedDate": {
+            "value": "2021-04-07T19:53:14.118Z",
+            "timezone": "UTC"
+        },
+        "type": "Image",
+        "typeCategory": "DigitalAssetType",
+        "createdDate": {
+            "value": "2020-06-04T19:37:47.577Z",
+            "timezone": "UTC"
+        },
+        "taxonomies": {
+            "items": [{
+                "id": "FC169639A24E4D1CA9F7427EF5857478",
+                "name": "OCEImageGalleryTaxonomy",
+                "shortName": "IMG",
+                "categories": {
+                    "items": [{
+                        "id": "1C8275C3E3714165B399A1ACEC35E408",
+                        "name": "Breakfast",
+                        "apiName": "img-f-b",
+                        "nodes": [{
+                            "id": "570A7BBE2FE34470B72BD4B33D12CF74",
+                            "name": "Food",
+                            "apiName": "img-f"
+                        }, {
+                            "id": "1C8275C3E3714165B399A1ACEC35E408",
+                            "name": "Breakfast",
+                            "apiName": "img-f-b"
+                        }],
+                        "links": [{
+                            "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478/categories/1C8275C3E3714165B399A1ACEC35E408?channelToken=e0b6421e73454818948de7b1eaddb091",
+                            "rel": "self",
+                            "method": "GET",
+                            "mediaType": "application/json"
+                        }]
+                    }]
+                },
+                "links": [{
+                    "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478?channelToken=e0b6421e73454818948de7b1eaddb091",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "application/json"
+                }]
+            }]
+        },
+        "fileExtension": "jpg",
+        "name": "shutterstock_176375081(2).jpg",
+        "renditions": {
+            "items": []
+        },
+        "links": [{
+            "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/items/CONT40C5F931C3CC42F2A2D7C6117388E2C9?channelToken=e0b6421e73454818948de7b1eaddb091",
+            "rel": "self",
+            "method": "GET",
+            "mediaType": "application/json"
+        }],
+        "id": "CONT40C5F931C3CC42F2A2D7C6117388E2C9",
+        "fileGroup": "Images",
+        "fields": {
+            "metadata": {
+                "width": "1719",
+                "height": "2072"
+            },
+            "size": 868607,
+            "native": {
+                "links": [{
+                    "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT40C5F931C3CC42F2A2D7C6117388E2C9/native/shutterstock_176375081%282%29.jpg?channelToken=e0b6421e73454818948de7b1eaddb091",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "image/jpeg"
+                }]
+            },
+            "advancedVideoInfo": {},
+            "renditions": [{
+                "name": "Thumbnail",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 16601,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "150",
+                        "height": "180"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT40C5F931C3CC42F2A2D7C6117388E2C9/Thumbnail/shutterstock_176375081%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 6032,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "150",
+                        "height": "180"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT40C5F931C3CC42F2A2D7C6117388E2C9/Thumbnail/shutterstock_176375081%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Medium",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 481260,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "1024",
+                        "height": "1234"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT40C5F931C3CC42F2A2D7C6117388E2C9/Medium/shutterstock_176375081%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 161532,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "1024",
+                        "height": "1234"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT40C5F931C3CC42F2A2D7C6117388E2C9/Medium/shutterstock_176375081%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Large",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 868607,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "1719",
+                        "height": "2072"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT40C5F931C3CC42F2A2D7C6117388E2C9/Large/shutterstock_176375081%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 413094,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "1719",
+                        "height": "2072"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT40C5F931C3CC42F2A2D7C6117388E2C9/Large/shutterstock_176375081%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Small",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 56562,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "300",
+                        "height": "361"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT40C5F931C3CC42F2A2D7C6117388E2C9/Small/shutterstock_176375081%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 20394,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "300",
+                        "height": "361"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT40C5F931C3CC42F2A2D7C6117388E2C9/Small/shutterstock_176375081%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }],
+            "mimeType": "image/jpeg",
+            "fileType": "jpeg"
+        },
+        "slug": "1481786090161-shutterstock_176375081(2)"
+    }, {
+        "description": "",
+        "mimeType": "image/jpeg",
+        "updatedDate": {
+            "value": "2021-04-07T19:54:28.412Z",
+            "timezone": "UTC"
+        },
+        "type": "Image",
+        "typeCategory": "DigitalAssetType",
+        "createdDate": {
+            "value": "2020-06-04T19:37:47.577Z",
+            "timezone": "UTC"
+        },
+        "taxonomies": {
+            "items": [{
+                "id": "FC169639A24E4D1CA9F7427EF5857478",
+                "name": "OCEImageGalleryTaxonomy",
+                "shortName": "IMG",
+                "categories": {
+                    "items": [{
+                        "id": "1C8275C3E3714165B399A1ACEC35E408",
+                        "name": "Breakfast",
+                        "apiName": "img-f-b",
+                        "nodes": [{
+                            "id": "570A7BBE2FE34470B72BD4B33D12CF74",
+                            "name": "Food",
+                            "apiName": "img-f"
+                        }, {
+                            "id": "1C8275C3E3714165B399A1ACEC35E408",
+                            "name": "Breakfast",
+                            "apiName": "img-f-b"
+                        }],
+                        "links": [{
+                            "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478/categories/1C8275C3E3714165B399A1ACEC35E408?channelToken=e0b6421e73454818948de7b1eaddb091",
+                            "rel": "self",
+                            "method": "GET",
+                            "mediaType": "application/json"
+                        }]
+                    }]
+                },
+                "links": [{
+                    "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478?channelToken=e0b6421e73454818948de7b1eaddb091",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "application/json"
+                }]
+            }]
+        },
+        "fileExtension": "jpg",
+        "name": "shutterstock_376108210(2).jpg",
+        "renditions": {
+            "items": []
+        },
+        "links": [{
+            "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/items/CONT1C91E269AB8D425BA2940686D46702DF?channelToken=e0b6421e73454818948de7b1eaddb091",
+            "rel": "self",
+            "method": "GET",
+            "mediaType": "application/json"
+        }],
+        "id": "CONT1C91E269AB8D425BA2940686D46702DF",
+        "fileGroup": "Images",
+        "fields": {
+            "metadata": {
+                "width": "1185",
+                "height": "1188"
+            },
+            "size": 221888,
+            "native": {
+                "links": [{
+                    "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT1C91E269AB8D425BA2940686D46702DF/native/shutterstock_376108210%282%29.jpg?channelToken=e0b6421e73454818948de7b1eaddb091",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "image/jpeg"
+                }]
+            },
+            "advancedVideoInfo": {},
+            "renditions": [{
+                "name": "Thumbnail",
+                "formats": [{
+                    "format": "webp",
+                    "size": 0,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "150",
+                        "height": "150"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT1C91E269AB8D425BA2940686D46702DF/Thumbnail/shutterstock_376108210%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }, {
+                    "format": "jpg",
+                    "size": 8778,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "150",
+                        "height": "150"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT1C91E269AB8D425BA2940686D46702DF/Thumbnail/shutterstock_376108210%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Medium",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 217344,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "1024",
+                        "height": "1026"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT1C91E269AB8D425BA2940686D46702DF/Medium/shutterstock_376108210%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 60774,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "1024",
+                        "height": "1026"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT1C91E269AB8D425BA2940686D46702DF/Medium/shutterstock_376108210%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Large",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 221888,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "1185",
+                        "height": "1188"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT1C91E269AB8D425BA2940686D46702DF/Large/shutterstock_376108210%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 90890,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "1185",
+                        "height": "1188"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT1C91E269AB8D425BA2940686D46702DF/Large/shutterstock_376108210%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Small",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 28233,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "300",
+                        "height": "300"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT1C91E269AB8D425BA2940686D46702DF/Small/shutterstock_376108210%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 8910,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "300",
+                        "height": "300"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT1C91E269AB8D425BA2940686D46702DF/Small/shutterstock_376108210%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }],
+            "mimeType": "image/jpeg",
+            "fileType": "jpeg"
+        },
+        "slug": "1481786090077-shutterstock_376108210(2)"
+    }, {
+        "description": "",
+        "mimeType": "image/jpeg",
+        "updatedDate": {
+            "value": "2021-04-07T19:54:28.412Z",
+            "timezone": "UTC"
+        },
+        "type": "Image",
+        "typeCategory": "DigitalAssetType",
+        "createdDate": {
+            "value": "2020-06-04T19:37:47.577Z",
+            "timezone": "UTC"
+        },
+        "taxonomies": {
+            "items": [{
+                "id": "FC169639A24E4D1CA9F7427EF5857478",
+                "name": "OCEImageGalleryTaxonomy",
+                "shortName": "IMG",
+                "categories": {
+                    "items": [{
+                        "id": "1C8275C3E3714165B399A1ACEC35E408",
+                        "name": "Breakfast",
+                        "apiName": "img-f-b",
+                        "nodes": [{
+                            "id": "570A7BBE2FE34470B72BD4B33D12CF74",
+                            "name": "Food",
+                            "apiName": "img-f"
+                        }, {
+                            "id": "1C8275C3E3714165B399A1ACEC35E408",
+                            "name": "Breakfast",
+                            "apiName": "img-f-b"
+                        }],
+                        "links": [{
+                            "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478/categories/1C8275C3E3714165B399A1ACEC35E408?channelToken=e0b6421e73454818948de7b1eaddb091",
+                            "rel": "self",
+                            "method": "GET",
+                            "mediaType": "application/json"
+                        }]
+                    }]
+                },
+                "links": [{
+                    "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478?channelToken=e0b6421e73454818948de7b1eaddb091",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "application/json"
+                }]
+            }]
+        },
+        "fileExtension": "jpg",
+        "name": "shutterstock_377474509(2).jpg",
+        "renditions": {
+            "items": []
+        },
+        "links": [{
+            "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/items/CONT4D8237EB0471479E987C0EF57FA61FC6?channelToken=e0b6421e73454818948de7b1eaddb091",
+            "rel": "self",
+            "method": "GET",
+            "mediaType": "application/json"
+        }],
+        "id": "CONT4D8237EB0471479E987C0EF57FA61FC6",
+        "fileGroup": "Images",
+        "fields": {
+            "metadata": {
+                "width": "1869",
+                "height": "1236"
+            },
+            "size": 395563,
+            "native": {
+                "links": [{
+                    "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT4D8237EB0471479E987C0EF57FA61FC6/native/shutterstock_377474509%282%29.jpg?channelToken=e0b6421e73454818948de7b1eaddb091",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "image/jpeg"
+                }]
+            },
+            "advancedVideoInfo": {},
+            "renditions": [{
+                "name": "Thumbnail",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 10330,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "150",
+                        "height": "99"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT4D8237EB0471479E987C0EF57FA61FC6/Thumbnail/shutterstock_377474509%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 3908,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "150",
+                        "height": "99"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT4D8237EB0471479E987C0EF57FA61FC6/Thumbnail/shutterstock_377474509%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Medium",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 205427,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "1024",
+                        "height": "677"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT4D8237EB0471479E987C0EF57FA61FC6/Medium/shutterstock_377474509%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 62710,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "1024",
+                        "height": "677"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT4D8237EB0471479E987C0EF57FA61FC6/Medium/shutterstock_377474509%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Large",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 395563,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "1869",
+                        "height": "1236"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT4D8237EB0471479E987C0EF57FA61FC6/Large/shutterstock_377474509%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 167028,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "1869",
+                        "height": "1236"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT4D8237EB0471479E987C0EF57FA61FC6/Large/shutterstock_377474509%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Small",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 29765,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "300",
+                        "height": "198"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT4D8237EB0471479E987C0EF57FA61FC6/Small/shutterstock_377474509%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 10890,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "300",
+                        "height": "198"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT4D8237EB0471479E987C0EF57FA61FC6/Small/shutterstock_377474509%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }],
+            "mimeType": "image/jpeg",
+            "fileType": "jpeg"
+        },
+        "slug": "1481786090065-shutterstock_377474509(2)"
+    }, {
+        "description": "",
+        "mimeType": "image/jpeg",
+        "updatedDate": {
+            "value": "2021-04-07T19:53:14.118Z",
+            "timezone": "UTC"
+        },
+        "type": "Image",
+        "typeCategory": "DigitalAssetType",
+        "createdDate": {
+            "value": "2020-04-01T22:26:12.660Z",
+            "timezone": "UTC"
+        },
+        "taxonomies": {
+            "items": [{
+                "id": "FC169639A24E4D1CA9F7427EF5857478",
+                "name": "OCEImageGalleryTaxonomy",
+                "shortName": "IMG",
+                "categories": {
+                    "items": [{
+                        "id": "1C8275C3E3714165B399A1ACEC35E408",
+                        "name": "Breakfast",
+                        "apiName": "img-f-b",
+                        "nodes": [{
+                            "id": "570A7BBE2FE34470B72BD4B33D12CF74",
+                            "name": "Food",
+                            "apiName": "img-f"
+                        }, {
+                            "id": "1C8275C3E3714165B399A1ACEC35E408",
+                            "name": "Breakfast",
+                            "apiName": "img-f-b"
+                        }],
+                        "links": [{
+                            "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478/categories/1C8275C3E3714165B399A1ACEC35E408?channelToken=e0b6421e73454818948de7b1eaddb091",
+                            "rel": "self",
+                            "method": "GET",
+                            "mediaType": "application/json"
+                        }]
+                    }, {
+                        "id": "5F06607701B24C289F963F57F84EE87C",
+                        "name": "Sandwiches",
+                        "apiName": "img-f-s",
+                        "nodes": [{
+                            "id": "570A7BBE2FE34470B72BD4B33D12CF74",
+                            "name": "Food",
+                            "apiName": "img-f"
+                        }, {
+                            "id": "5F06607701B24C289F963F57F84EE87C",
+                            "name": "Sandwiches",
+                            "apiName": "img-f-s"
+                        }],
+                        "links": [{
+                            "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478/categories/5F06607701B24C289F963F57F84EE87C?channelToken=e0b6421e73454818948de7b1eaddb091",
+                            "rel": "self",
+                            "method": "GET",
+                            "mediaType": "application/json"
+                        }]
+                    }]
+                },
+                "links": [{
+                    "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478?channelToken=e0b6421e73454818948de7b1eaddb091",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "application/json"
+                }]
+            }]
+        },
+        "fileExtension": "jpg",
+        "name": "shutterstock_390100000(2).jpg",
+        "renditions": {
+            "items": null
+        },
+        "links": [{
+            "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/items/CONT377853F5B6054622953079BAD226843C?channelToken=e0b6421e73454818948de7b1eaddb091",
+            "rel": "self",
+            "method": "GET",
+            "mediaType": "application/json"
+        }],
+        "id": "CONT377853F5B6054622953079BAD226843C",
+        "fileGroup": "Images",
+        "fields": {
+            "metadata": {
+                "width": "1378",
+                "height": "919"
+            },
+            "size": 261313,
+            "native": {
+                "links": [{
+                    "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT377853F5B6054622953079BAD226843C/native/shutterstock_390100000%282%29.jpg?channelToken=e0b6421e73454818948de7b1eaddb091",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "image/jpeg"
+                }]
+            },
+            "advancedVideoInfo": {},
+            "renditions": [{
+                "name": "Thumbnail",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 11740,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "150",
+                        "height": "100"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT377853F5B6054622953079BAD226843C/Thumbnail/shutterstock_390100000%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 4288,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "150",
+                        "height": "100"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT377853F5B6054622953079BAD226843C/Thumbnail/shutterstock_390100000%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Medium",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 218412,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "1024",
+                        "height": "682"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT377853F5B6054622953079BAD226843C/Medium/shutterstock_390100000%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 63826,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "1024",
+                        "height": "682"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT377853F5B6054622953079BAD226843C/Medium/shutterstock_390100000%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Large",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 261313,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "1378",
+                        "height": "919"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT377853F5B6054622953079BAD226843C/Large/shutterstock_390100000%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 103724,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "1378",
+                        "height": "919"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT377853F5B6054622953079BAD226843C/Large/shutterstock_390100000%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Small",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 34410,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "300",
+                        "height": "200"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT377853F5B6054622953079BAD226843C/Small/shutterstock_390100000%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 12322,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "300",
+                        "height": "200"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT377853F5B6054622953079BAD226843C/Small/shutterstock_390100000%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }],
+            "mimeType": "image/jpeg",
+            "fileType": "jpeg"
+        },
+        "slug": "1481786089939-shutterstock_390100000(2)"
+    }, {
+        "description": "",
+        "mimeType": "image/jpeg",
+        "updatedDate": {
+            "value": "2021-04-07T19:53:14.118Z",
+            "timezone": "UTC"
+        },
+        "type": "Image",
+        "typeCategory": "DigitalAssetType",
+        "createdDate": {
+            "value": "2020-04-01T22:26:12.660Z",
+            "timezone": "UTC"
+        },
+        "taxonomies": {
+            "items": [{
+                "id": "FC169639A24E4D1CA9F7427EF5857478",
+                "name": "OCEImageGalleryTaxonomy",
+                "shortName": "IMG",
+                "categories": {
+                    "items": [{
+                        "id": "1C8275C3E3714165B399A1ACEC35E408",
+                        "name": "Breakfast",
+                        "apiName": "img-f-b",
+                        "nodes": [{
+                            "id": "570A7BBE2FE34470B72BD4B33D12CF74",
+                            "name": "Food",
+                            "apiName": "img-f"
+                        }, {
+                            "id": "1C8275C3E3714165B399A1ACEC35E408",
+                            "name": "Breakfast",
+                            "apiName": "img-f-b"
+                        }],
+                        "links": [{
+                            "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478/categories/1C8275C3E3714165B399A1ACEC35E408?channelToken=e0b6421e73454818948de7b1eaddb091",
+                            "rel": "self",
+                            "method": "GET",
+                            "mediaType": "application/json"
+                        }]
+                    }]
+                },
+                "links": [{
+                    "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478?channelToken=e0b6421e73454818948de7b1eaddb091",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "application/json"
+                }]
+            }]
+        },
+        "fileExtension": "jpg",
+        "name": "shutterstock_95028838(2).jpg",
+        "renditions": {
+            "items": null
+        },
+        "links": [{
+            "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/items/CONTC9D9C5414CB240B1BB68D14D8EE16E84?channelToken=e0b6421e73454818948de7b1eaddb091",
+            "rel": "self",
+            "method": "GET",
+            "mediaType": "application/json"
+        }],
+        "id": "CONTC9D9C5414CB240B1BB68D14D8EE16E84",
+        "fileGroup": "Images",
+        "fields": {
+            "metadata": {
+                "width": "1966",
+                "height": "1311"
+            },
+            "size": 227100,
+            "native": {
+                "links": [{
+                    "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONTC9D9C5414CB240B1BB68D14D8EE16E84/native/shutterstock_95028838%282%29.jpg?channelToken=e0b6421e73454818948de7b1eaddb091",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "image/jpeg"
+                }]
+            },
+            "advancedVideoInfo": {},
+            "renditions": [{
+                "name": "Thumbnail",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 5211,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "150",
+                        "height": "100"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONTC9D9C5414CB240B1BB68D14D8EE16E84/Thumbnail/shutterstock_95028838%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 1360,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "150",
+                        "height": "100"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONTC9D9C5414CB240B1BB68D14D8EE16E84/Thumbnail/shutterstock_95028838%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Medium",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 102592,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "1024",
+                        "height": "682"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONTC9D9C5414CB240B1BB68D14D8EE16E84/Medium/shutterstock_95028838%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 19908,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "1024",
+                        "height": "682"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONTC9D9C5414CB240B1BB68D14D8EE16E84/Medium/shutterstock_95028838%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Large",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 227100,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "1966",
+                        "height": "1311"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONTC9D9C5414CB240B1BB68D14D8EE16E84/Large/shutterstock_95028838%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 65806,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "1966",
+                        "height": "1311"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONTC9D9C5414CB240B1BB68D14D8EE16E84/Large/shutterstock_95028838%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Small",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 13877,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "300",
+                        "height": "200"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONTC9D9C5414CB240B1BB68D14D8EE16E84/Small/shutterstock_95028838%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 3198,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "300",
+                        "height": "200"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONTC9D9C5414CB240B1BB68D14D8EE16E84/Small/shutterstock_95028838%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }],
+            "mimeType": "image/jpeg",
+            "fileType": "jpeg"
+        },
+        "slug": "1481786089951-shutterstock_95028838(2)"
+    }, {
+        "description": "",
+        "mimeType": "image/jpeg",
+        "updatedDate": {
+            "value": "2021-04-07T19:53:14.118Z",
+            "timezone": "UTC"
+        },
+        "type": "Image",
+        "typeCategory": "DigitalAssetType",
+        "createdDate": {
+            "value": "2020-04-01T22:26:12.660Z",
+            "timezone": "UTC"
+        },
+        "taxonomies": {
+            "items": [{
+                "id": "FC169639A24E4D1CA9F7427EF5857478",
+                "name": "OCEImageGalleryTaxonomy",
+                "shortName": "IMG",
+                "categories": {
+                    "items": [{
+                        "id": "1C8275C3E3714165B399A1ACEC35E408",
+                        "name": "Breakfast",
+                        "apiName": "img-f-b",
+                        "nodes": [{
+                            "id": "570A7BBE2FE34470B72BD4B33D12CF74",
+                            "name": "Food",
+                            "apiName": "img-f"
+                        }, {
+                            "id": "1C8275C3E3714165B399A1ACEC35E408",
+                            "name": "Breakfast",
+                            "apiName": "img-f-b"
+                        }],
+                        "links": [{
+                            "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478/categories/1C8275C3E3714165B399A1ACEC35E408?channelToken=e0b6421e73454818948de7b1eaddb091",
+                            "rel": "self",
+                            "method": "GET",
+                            "mediaType": "application/json"
+                        }]
+                    }]
+                },
+                "links": [{
+                    "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478?channelToken=e0b6421e73454818948de7b1eaddb091",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "application/json"
+                }]
+            }]
+        },
+        "fileExtension": "jpg",
+        "name": "shutterstock_582890470(2).jpg",
+        "renditions": {
+            "items": null
+        },
+        "links": [{
+            "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/items/CONT6485B260DD6D4F0280828A34103D4DFB?channelToken=e0b6421e73454818948de7b1eaddb091",
+            "rel": "self",
+            "method": "GET",
+            "mediaType": "application/json"
+        }],
+        "id": "CONT6485B260DD6D4F0280828A34103D4DFB",
+        "fileGroup": "Images",
+        "fields": {
+            "metadata": {
+                "width": "1814",
+                "height": "1209"
+            },
+            "size": 336916,
+            "native": {
+                "links": [{
+                    "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT6485B260DD6D4F0280828A34103D4DFB/native/shutterstock_582890470%282%29.jpg?channelToken=e0b6421e73454818948de7b1eaddb091",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "image/jpeg"
+                }]
+            },
+            "advancedVideoInfo": {},
+            "renditions": [{
+                "name": "Thumbnail",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 8831,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "150",
+                        "height": "99"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT6485B260DD6D4F0280828A34103D4DFB/Thumbnail/shutterstock_582890470%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 2982,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "150",
+                        "height": "99"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT6485B260DD6D4F0280828A34103D4DFB/Thumbnail/shutterstock_582890470%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Medium",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 186198,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "1024",
+                        "height": "682"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT6485B260DD6D4F0280828A34103D4DFB/Medium/shutterstock_582890470%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 49846,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "1024",
+                        "height": "682"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT6485B260DD6D4F0280828A34103D4DFB/Medium/shutterstock_582890470%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Large",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 336916,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "1814",
+                        "height": "1209"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT6485B260DD6D4F0280828A34103D4DFB/Large/shutterstock_582890470%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 119568,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "1814",
+                        "height": "1209"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT6485B260DD6D4F0280828A34103D4DFB/Large/shutterstock_582890470%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Small",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 26625,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "300",
+                        "height": "199"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT6485B260DD6D4F0280828A34103D4DFB/Small/shutterstock_582890470%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 8770,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "300",
+                        "height": "199"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT6485B260DD6D4F0280828A34103D4DFB/Small/shutterstock_582890470%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }],
+            "mimeType": "image/jpeg",
+            "fileType": "jpeg"
+        },
+        "slug": "1481786089449-shutterstock_582890470(2)"
+    }, {
+        "description": "",
+        "mimeType": "image/jpeg",
+        "updatedDate": {
+            "value": "2021-04-07T19:54:28.412Z",
+            "timezone": "UTC"
+        },
+        "type": "Image",
+        "typeCategory": "DigitalAssetType",
+        "createdDate": {
+            "value": "2020-04-01T22:26:12.660Z",
+            "timezone": "UTC"
+        },
+        "taxonomies": {
+            "items": [{
+                "id": "FC169639A24E4D1CA9F7427EF5857478",
+                "name": "OCEImageGalleryTaxonomy",
+                "shortName": "IMG",
+                "categories": {
+                    "items": [{
+                        "id": "1C8275C3E3714165B399A1ACEC35E408",
+                        "name": "Breakfast",
+                        "apiName": "img-f-b",
+                        "nodes": [{
+                            "id": "570A7BBE2FE34470B72BD4B33D12CF74",
+                            "name": "Food",
+                            "apiName": "img-f"
+                        }, {
+                            "id": "1C8275C3E3714165B399A1ACEC35E408",
+                            "name": "Breakfast",
+                            "apiName": "img-f-b"
+                        }],
+                        "links": [{
+                            "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478/categories/1C8275C3E3714165B399A1ACEC35E408?channelToken=e0b6421e73454818948de7b1eaddb091",
+                            "rel": "self",
+                            "method": "GET",
+                            "mediaType": "application/json"
+                        }]
+                    }, {
+                        "id": "5F06607701B24C289F963F57F84EE87C",
+                        "name": "Sandwiches",
+                        "apiName": "img-f-s",
+                        "nodes": [{
+                            "id": "570A7BBE2FE34470B72BD4B33D12CF74",
+                            "name": "Food",
+                            "apiName": "img-f"
+                        }, {
+                            "id": "5F06607701B24C289F963F57F84EE87C",
+                            "name": "Sandwiches",
+                            "apiName": "img-f-s"
+                        }],
+                        "links": [{
+                            "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478/categories/5F06607701B24C289F963F57F84EE87C?channelToken=e0b6421e73454818948de7b1eaddb091",
+                            "rel": "self",
+                            "method": "GET",
+                            "mediaType": "application/json"
+                        }]
+                    }]
+                },
+                "links": [{
+                    "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478?channelToken=e0b6421e73454818948de7b1eaddb091",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "application/json"
+                }]
+            }]
+        },
+        "fileExtension": "jpg",
+        "name": "shutterstock_246282100(2).jpg",
+        "renditions": {
+            "items": []
+        },
+        "links": [{
+            "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/items/CONT21DAB8B45D1F43EE9E51744DF5033939?channelToken=e0b6421e73454818948de7b1eaddb091",
+            "rel": "self",
+            "method": "GET",
+            "mediaType": "application/json"
+        }],
+        "id": "CONT21DAB8B45D1F43EE9E51744DF5033939",
+        "fileGroup": "Images",
+        "fields": {
+            "metadata": {
+                "width": "1966",
+                "height": "1311"
+            },
+            "size": 401728,
+            "native": {
+                "links": [{
+                    "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT21DAB8B45D1F43EE9E51744DF5033939/native/shutterstock_246282100%282%29.jpg?channelToken=e0b6421e73454818948de7b1eaddb091",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "image/jpeg"
+                }]
+            },
+            "advancedVideoInfo": {},
+            "renditions": [{
+                "name": "Thumbnail",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 10028,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "150",
+                        "height": "100"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT21DAB8B45D1F43EE9E51744DF5033939/Thumbnail/shutterstock_246282100%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 3788,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "150",
+                        "height": "100"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT21DAB8B45D1F43EE9E51744DF5033939/Thumbnail/shutterstock_246282100%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Medium",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 195895,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "1024",
+                        "height": "682"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT21DAB8B45D1F43EE9E51744DF5033939/Medium/shutterstock_246282100%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 59280,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "1024",
+                        "height": "682"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT21DAB8B45D1F43EE9E51744DF5033939/Medium/shutterstock_246282100%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Large",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 401728,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "1966",
+                        "height": "1311"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT21DAB8B45D1F43EE9E51744DF5033939/Large/shutterstock_246282100%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 158508,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "1966",
+                        "height": "1311"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT21DAB8B45D1F43EE9E51744DF5033939/Large/shutterstock_246282100%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Small",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 28851,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "300",
+                        "height": "200"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT21DAB8B45D1F43EE9E51744DF5033939/Small/shutterstock_246282100%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 10350,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "300",
+                        "height": "200"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT21DAB8B45D1F43EE9E51744DF5033939/Small/shutterstock_246282100%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }],
+            "mimeType": "image/jpeg",
+            "fileType": "jpeg"
+        },
+        "slug": "1481786089999-shutterstock_246282100(2)"
+    }, {
+        "description": "",
+        "mimeType": "image/jpeg",
+        "updatedDate": {
+            "value": "2021-04-07T19:53:14.118Z",
+            "timezone": "UTC"
+        },
+        "type": "Image",
+        "typeCategory": "DigitalAssetType",
+        "createdDate": {
+            "value": "2020-06-04T19:37:47.577Z",
+            "timezone": "UTC"
+        },
+        "taxonomies": {
+            "items": [{
+                "id": "FC169639A24E4D1CA9F7427EF5857478",
+                "name": "OCEImageGalleryTaxonomy",
+                "shortName": "IMG",
+                "categories": {
+                    "items": [{
+                        "id": "1C8275C3E3714165B399A1ACEC35E408",
+                        "name": "Breakfast",
+                        "apiName": "img-f-b",
+                        "nodes": [{
+                            "id": "570A7BBE2FE34470B72BD4B33D12CF74",
+                            "name": "Food",
+                            "apiName": "img-f"
+                        }, {
+                            "id": "1C8275C3E3714165B399A1ACEC35E408",
+                            "name": "Breakfast",
+                            "apiName": "img-f-b"
+                        }],
+                        "links": [{
+                            "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478/categories/1C8275C3E3714165B399A1ACEC35E408?channelToken=e0b6421e73454818948de7b1eaddb091",
+                            "rel": "self",
+                            "method": "GET",
+                            "mediaType": "application/json"
+                        }]
+                    }]
+                },
+                "links": [{
+                    "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478?channelToken=e0b6421e73454818948de7b1eaddb091",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "application/json"
+                }]
+            }]
+        },
+        "fileExtension": "jpg",
+        "name": "shutterstock_689746027(2).jpg",
+        "renditions": {
+            "items": null
+        },
+        "links": [{
+            "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/items/CONT90383C6C53394CF48957D3E80C98E13A?channelToken=e0b6421e73454818948de7b1eaddb091",
+            "rel": "self",
+            "method": "GET",
+            "mediaType": "application/json"
+        }],
+        "id": "CONT90383C6C53394CF48957D3E80C98E13A",
+        "fileGroup": "Images",
+        "fields": {
+            "metadata": {
+                "width": "1056",
+                "height": "792"
+            },
+            "size": 229058,
+            "native": {
+                "links": [{
+                    "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT90383C6C53394CF48957D3E80C98E13A/native/shutterstock_689746027%282%29.jpg?channelToken=e0b6421e73454818948de7b1eaddb091",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "image/jpeg"
+                }]
+            },
+            "advancedVideoInfo": {},
+            "renditions": [{
+                "name": "Thumbnail",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 11493,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "150",
+                        "height": "112"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT90383C6C53394CF48957D3E80C98E13A/Thumbnail/shutterstock_689746027%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 4480,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "150",
+                        "height": "112"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT90383C6C53394CF48957D3E80C98E13A/Thumbnail/shutterstock_689746027%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Medium",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 277477,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "1024",
+                        "height": "768"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT90383C6C53394CF48957D3E80C98E13A/Medium/shutterstock_689746027%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 92010,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "1024",
+                        "height": "768"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT90383C6C53394CF48957D3E80C98E13A/Medium/shutterstock_689746027%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Large",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 229058,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "1056",
+                        "height": "792"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT90383C6C53394CF48957D3E80C98E13A/Large/shutterstock_689746027%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 111040,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "1056",
+                        "height": "792"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT90383C6C53394CF48957D3E80C98E13A/Large/shutterstock_689746027%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Small",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 39496,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "300",
+                        "height": "225"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT90383C6C53394CF48957D3E80C98E13A/Small/shutterstock_689746027%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 15348,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "300",
+                        "height": "225"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT90383C6C53394CF48957D3E80C98E13A/Small/shutterstock_689746027%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }],
+            "mimeType": "image/jpeg",
+            "fileType": "jpeg"
+        },
+        "slug": "1481786090293-shutterstock_689746027(2)"
+    }, {
+        "description": "",
+        "mimeType": "image/jpeg",
+        "updatedDate": {
+            "value": "2021-04-07T19:54:28.412Z",
+            "timezone": "UTC"
+        },
+        "type": "Image",
+        "typeCategory": "DigitalAssetType",
+        "createdDate": {
+            "value": "2020-06-04T19:37:47.577Z",
+            "timezone": "UTC"
+        },
+        "taxonomies": {
+            "items": [{
+                "id": "FC169639A24E4D1CA9F7427EF5857478",
+                "name": "OCEImageGalleryTaxonomy",
+                "shortName": "IMG",
+                "categories": {
+                    "items": [{
+                        "id": "1C8275C3E3714165B399A1ACEC35E408",
+                        "name": "Breakfast",
+                        "apiName": "img-f-b",
+                        "nodes": [{
+                            "id": "570A7BBE2FE34470B72BD4B33D12CF74",
+                            "name": "Food",
+                            "apiName": "img-f"
+                        }, {
+                            "id": "1C8275C3E3714165B399A1ACEC35E408",
+                            "name": "Breakfast",
+                            "apiName": "img-f-b"
+                        }],
+                        "links": [{
+                            "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478/categories/1C8275C3E3714165B399A1ACEC35E408?channelToken=e0b6421e73454818948de7b1eaddb091",
+                            "rel": "self",
+                            "method": "GET",
+                            "mediaType": "application/json"
+                        }]
+                    }]
+                },
+                "links": [{
+                    "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478?channelToken=e0b6421e73454818948de7b1eaddb091",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "application/json"
+                }]
+            }]
+        },
+        "fileExtension": "jpg",
+        "name": "shutterstock_268992521(2).jpg",
+        "renditions": {
+            "items": []
+        },
+        "links": [{
+            "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/items/CONT22FF6378DB6E4BA5AEF09DB6522CDDE6?channelToken=e0b6421e73454818948de7b1eaddb091",
+            "rel": "self",
+            "method": "GET",
+            "mediaType": "application/json"
+        }],
+        "id": "CONT22FF6378DB6E4BA5AEF09DB6522CDDE6",
+        "fileGroup": "Images",
+        "fields": {
+            "metadata": {
+                "width": "1240",
+                "height": "827"
+            },
+            "size": 163527,
+            "native": {
+                "links": [{
+                    "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT22FF6378DB6E4BA5AEF09DB6522CDDE6/native/shutterstock_268992521%282%29.jpg?channelToken=e0b6421e73454818948de7b1eaddb091",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "image/jpeg"
+                }]
+            },
+            "advancedVideoInfo": {},
+            "renditions": [{
+                "name": "Thumbnail",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 8357,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "150",
+                        "height": "100"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT22FF6378DB6E4BA5AEF09DB6522CDDE6/Thumbnail/shutterstock_268992521%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 2470,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "150",
+                        "height": "100"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT22FF6378DB6E4BA5AEF09DB6522CDDE6/Thumbnail/shutterstock_268992521%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Medium",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 162885,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "1024",
+                        "height": "682"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT22FF6378DB6E4BA5AEF09DB6522CDDE6/Medium/shutterstock_268992521%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 38514,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "1024",
+                        "height": "682"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT22FF6378DB6E4BA5AEF09DB6522CDDE6/Medium/shutterstock_268992521%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Large",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 163527,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "1240",
+                        "height": "827"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT22FF6378DB6E4BA5AEF09DB6522CDDE6/Large/shutterstock_268992521%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 56144,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "1240",
+                        "height": "827"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT22FF6378DB6E4BA5AEF09DB6522CDDE6/Large/shutterstock_268992521%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Small",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 23544,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "300",
+                        "height": "200"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT22FF6378DB6E4BA5AEF09DB6522CDDE6/Small/shutterstock_268992521%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 6740,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "300",
+                        "height": "200"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT22FF6378DB6E4BA5AEF09DB6522CDDE6/Small/shutterstock_268992521%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }],
+            "mimeType": "image/jpeg",
+            "fileType": "jpeg"
+        },
+        "slug": "1481786090125-shutterstock_268992521(2)"
+    }, {
+        "description": "",
+        "mimeType": "image/jpeg",
+        "updatedDate": {
+            "value": "2021-04-07T19:54:28.412Z",
+            "timezone": "UTC"
+        },
+        "type": "Image",
+        "typeCategory": "DigitalAssetType",
+        "createdDate": {
+            "value": "2020-06-04T19:37:47.577Z",
+            "timezone": "UTC"
+        },
+        "taxonomies": {
+            "items": [{
+                "id": "FC169639A24E4D1CA9F7427EF5857478",
+                "name": "OCEImageGalleryTaxonomy",
+                "shortName": "IMG",
+                "categories": {
+                    "items": [{
+                        "id": "1C8275C3E3714165B399A1ACEC35E408",
+                        "name": "Breakfast",
+                        "apiName": "img-f-b",
+                        "nodes": [{
+                            "id": "570A7BBE2FE34470B72BD4B33D12CF74",
+                            "name": "Food",
+                            "apiName": "img-f"
+                        }, {
+                            "id": "1C8275C3E3714165B399A1ACEC35E408",
+                            "name": "Breakfast",
+                            "apiName": "img-f-b"
+                        }],
+                        "links": [{
+                            "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478/categories/1C8275C3E3714165B399A1ACEC35E408?channelToken=e0b6421e73454818948de7b1eaddb091",
+                            "rel": "self",
+                            "method": "GET",
+                            "mediaType": "application/json"
+                        }]
+                    }]
+                },
+                "links": [{
+                    "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478?channelToken=e0b6421e73454818948de7b1eaddb091",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "application/json"
+                }]
+            }]
+        },
+        "fileExtension": "jpg",
+        "name": "shutterstock_117304930(2).jpg",
+        "renditions": {
+            "items": []
+        },
+        "links": [{
+            "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/items/CONT717D46E9DCA343A0B7065016C1B6666C?channelToken=e0b6421e73454818948de7b1eaddb091",
+            "rel": "self",
+            "method": "GET",
+            "mediaType": "application/json"
+        }],
+        "id": "CONT717D46E9DCA343A0B7065016C1B6666C",
+        "fileGroup": "Images",
+        "fields": {
+            "metadata": {
+                "width": "1875",
+                "height": "1719"
+            },
+            "size": 437939,
+            "native": {
+                "links": [{
+                    "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT717D46E9DCA343A0B7065016C1B6666C/native/shutterstock_117304930%282%29.jpg?channelToken=e0b6421e73454818948de7b1eaddb091",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "image/jpeg"
+                }]
+            },
+            "advancedVideoInfo": {},
+            "renditions": [{
+                "name": "Thumbnail",
+                "formats": [{
+                    "format": "webp",
+                    "size": 0,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "150",
+                        "height": "137"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT717D46E9DCA343A0B7065016C1B6666C/Thumbnail/shutterstock_117304930%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }, {
+                    "format": "jpg",
+                    "size": 11148,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "150",
+                        "height": "137"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT717D46E9DCA343A0B7065016C1B6666C/Thumbnail/shutterstock_117304930%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Medium",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 228210,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "1024",
+                        "height": "938"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT717D46E9DCA343A0B7065016C1B6666C/Medium/shutterstock_117304930%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 64916,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "1024",
+                        "height": "938"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT717D46E9DCA343A0B7065016C1B6666C/Medium/shutterstock_117304930%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Large",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 437939,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "1875",
+                        "height": "1719"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT717D46E9DCA343A0B7065016C1B6666C/Large/shutterstock_117304930%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 171928,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "1875",
+                        "height": "1719"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT717D46E9DCA343A0B7065016C1B6666C/Large/shutterstock_117304930%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }, {
+                "name": "Small",
+                "formats": [{
+                    "format": "jpg",
+                    "size": 33790,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "width": "300",
+                        "height": "275"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT717D46E9DCA343A0B7065016C1B6666C/Small/shutterstock_117304930%282%29.jpg?format=jpg&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/jpeg"
+                    }]
+                }, {
+                    "format": "webp",
+                    "size": 11196,
+                    "mimeType": "image/webp",
+                    "metadata": {
+                        "width": "300",
+                        "height": "275"
+                    },
+                    "links": [{
+                        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONT717D46E9DCA343A0B7065016C1B6666C/Small/shutterstock_117304930%282%29.jpg?format=webp&type=responsiveimage&channelToken=e0b6421e73454818948de7b1eaddb091",
+                        "rel": "self",
+                        "method": "GET",
+                        "mediaType": "image/webp"
+                    }]
+                }],
+                "type": "responsiveimage"
+            }],
+            "mimeType": "image/jpeg",
+            "fileType": "jpeg"
+        },
+        "slug": "1481786090107-shutterstock_117304930(2)"
+    }],
+    "links": [{
+        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/items?q=taxonomies.categories.nodes.id eq \"1C8275C3E3714165B399A1ACEC35E408\" and type eq \"Image\"&totalResults=true&offset=0&limit=100&channelToken=e0b6421e73454818948de7b1eaddb091&fields=all",
+        "rel": "self",
+        "method": "GET",
+        "mediaType": "application/json"
+    }, {
+        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/items?q=taxonomies.categories.nodes.id eq \"1C8275C3E3714165B399A1ACEC35E408\" and type eq \"Image\"&totalResults=true&offset=0&limit=100&channelToken=e0b6421e73454818948de7b1eaddb091&fields=all",
+        "rel": "canonical",
+        "method": "GET",
+        "mediaType": "application/json"
+    }, {
+        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/metadata-catalog/items?channelToken=e0b6421e73454818948de7b1eaddb091",
+        "rel": "describedby",
+        "method": "GET",
+        "mediaType": "application/json"
+    }, {
+        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/items?q=taxonomies.categories.nodes.id eq \"1C8275C3E3714165B399A1ACEC35E408\" and type eq \"Image\"&totalResults=true&offset=0&limit=100&channelToken=e0b6421e73454818948de7b1eaddb091&fields=all",
+        "rel": "first",
+        "method": "GET",
+        "mediaType": "application/json"
+    }, {
+        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/items?q=taxonomies.categories.nodes.id eq \"1C8275C3E3714165B399A1ACEC35E408\" and type eq \"Image\"&totalResults=true&offset=0&limit=100&channelToken=e0b6421e73454818948de7b1eaddb091&fields=all",
+        "rel": "last",
+        "method": "GET",
+        "mediaType": "application/json"
+    }]
+}

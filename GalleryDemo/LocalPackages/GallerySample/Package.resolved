@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "content-management-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/oracle-samples/content-management-swift",
+      "state" : {
+        "revision" : "ed037a3b6d79e0b6d69803dcde87f1360c3fd0dc",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}

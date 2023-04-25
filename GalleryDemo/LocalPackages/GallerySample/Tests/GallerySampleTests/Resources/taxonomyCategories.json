@@ -1,0 +1,44 @@
+{
+    "hasMore": false,
+    "offset": 0,
+    "count": 1,
+    "limit": 1,
+    "totalResults": 1,
+    "items": [{
+        "name": "Breakfast",
+        "description": "",
+        "id": "1C8275C3E3714165B399A1ACEC35E408",
+        "links": [{
+            "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478/categories/1C8275C3E3714165B399A1ACEC35E408?channelToken=e0b6421e73454818948de7b1eaddb091",
+            "rel": "self",
+            "method": "GET",
+            "mediaType": "application/json"
+        }]
+    }],
+    "links": [{
+        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478/categories?limit=50&orderBy=name:asc&channelToken=e0b6421e73454818948de7b1eaddb091&totalResults=true&offset=0",
+        "rel": "self",
+        "method": "GET",
+        "mediaType": "application/json"
+    }, {
+        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478/categories?limit=50&orderBy=name:asc&channelToken=e0b6421e73454818948de7b1eaddb091&totalResults=true&offset=0",
+        "rel": "canonical",
+        "method": "GET",
+        "mediaType": "application/json"
+    }, {
+        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/metadata-catalog/taxonomies/FC169639A24E4D1CA9F7427EF5857478/categories?channelToken=e0b6421e73454818948de7b1eaddb091",
+        "rel": "describedby",
+        "method": "GET",
+        "mediaType": "application/json"
+    }, {
+        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478/categories?limit=50&orderBy=name:asc&channelToken=e0b6421e73454818948de7b1eaddb091&totalResults=true&offset=0",
+        "rel": "first",
+        "method": "GET",
+        "mediaType": "application/json"
+    }, {
+        "href": "https://samples-oce0001.cec.ocp.oraclecloud.com/content/published/api/v1.1/taxonomies/FC169639A24E4D1CA9F7427EF5857478/categories?limit=50&orderBy=name:asc&channelToken=e0b6421e73454818948de7b1eaddb091&totalResults=true&offset=0",
+        "rel": "last",
+        "method": "GET",
+        "mediaType": "application/json"
+    }]
+}
